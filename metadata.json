@@ -1,0 +1,6 @@
+{
+  "name": "Sabor & Gestión",
+  "description": "Sistema premium e inteligente para la gestión integral de restaurantes: comandas, cocina, personal, ventas, clientes y caja con analítica avanzada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
